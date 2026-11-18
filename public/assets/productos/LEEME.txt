@@ -1,0 +1,7 @@
+Fotos reales de productos
+-------------------------
+Coloque aqui las fotos de sus productos con el CODIGO del producto como nombre:
+  P001.jpg, P002.png, P003.jpg ...
+(se aceptan jpg, jpeg, png y webp)
+El catalogo y el sistema las mostraran automaticamente.
+Tambien puede subir la foto desde Productos -> Editar -> Imagen del producto.
